@@ -1,0 +1,290 @@
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.exe
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.deps.json
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.runtimeconfig.json
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.runtimeconfig.dev.json
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.pdb
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.csproj.AssemblyReference.cache
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.AssemblyInfoInputs.cache
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.AssemblyInfo.cs
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.csproj.CoreCompileInputs.cache
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.MvcApplicationPartsAssemblyInfo.cache
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\staticwebassets\shivam.StaticWebAssets.Manifest.cache
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\staticwebassets\shivam.StaticWebAssets.xml
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\scopedcss\bundle\shivam.styles.css
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.RazorTargetAssemblyInfo.cache
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.csproj.CopyComplete
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.dll
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.pdb
+E:\Api\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.genruntimeconfig.cache
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Api\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\appsettings.json
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.exe
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.deps.json
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.runtimeconfig.json
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.runtimeconfig.dev.json
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\shivam.pdb
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\surya\disk E\disk c\shivam\shivam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.csproj.AssemblyReference.cache
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.GeneratedMSBuildEditorConfig.editorconfig
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.AssemblyInfoInputs.cache
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.AssemblyInfo.cs
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.csproj.CoreCompileInputs.cache
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.MvcApplicationPartsAssemblyInfo.cache
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\staticwebassets\shivam.StaticWebAssets.Manifest.cache
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\staticwebassets\shivam.StaticWebAssets.xml
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\scopedcss\bundle\shivam.styles.css
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.RazorTargetAssemblyInfo.cache
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.csproj.CopyComplete
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.dll
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.pdb
+D:\surya\disk E\disk c\shivam\shivam\obj\Debug\netcoreapp3.1\shivam.genruntimeconfig.cache
